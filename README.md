@@ -9,6 +9,5 @@
 
 ### Contact:
 
-[![Gmail Badge](https://img.shields.io/bage/-beltran.v.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beltran.v.dev@gmail.com)
-(mailto:beltran.v.dev@gmail.com)
+beltran.v.dev@gmail.com
 
