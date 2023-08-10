@@ -68,3 +68,22 @@
   [Twitter Thread](https://twitter.com/bDevGames93/status/1685200083187326976)
   
   [In Progress]()
+
+  ---
+
+  ### My love for Unreal Engine Materials 🌈
+  
+- Snow never falls: To achieve this, I have used a technique called Triplanar Mapping. Three material functions have been used to create the rock part, the snow part, and the Triplanar Mapping
+  
+   [Video](https://twitter.com/bDevGames93/status/1491720381740335105)
+
+  Source code:
+  
+   [MF_Triplanarmapping](https://blueprintue.com/blueprint/lwwn82gi/)
+  
+   [MF_BasicRock](https://blueprintue.com/blueprint/_vp-lq7t/)
+  
+   [MF_BasicSnow](https://blueprintue.com/blueprint/ihnbo93k/)
+  
+   [M_SnowyRocks](https://blueprintue.com/blueprint/y-89948g/)
+  
