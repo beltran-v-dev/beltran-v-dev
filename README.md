@@ -87,13 +87,26 @@
   
      [M_SnowyRocks](https://blueprintue.com/blueprint/y-89948g/)
 
- - Lake: To achieve the creation of the water material, we have worked with nodes that help us to measure the distance to create the foam, we have worked with different normal maps and how to mix them, we have worked with the panner node, also the texture coordinate node so that the different textures have different uvs and look more realistic. We have also worked with a height map to create a slight tide, we are not in the sea, but it will be subtle and will give more life, we have worked with the height Lerp node and with the pixel depth and scene colour nodes among others.
+ - Lake: To achieve the creation of the water material, I have worked with nodes that help us to measure the distance to create the foam, I have worked with different normal maps and how to mix them, I  have worked with the panner node, also the texture coordinate node so that the different textures have different uvs and look more realistic. We have also worked with a height map to create a slight tide, we are not in the sea, but it will be subtle and will give more life, I have worked with the height Lerp node and with the pixel depth and scene colour nodes among others.
   
    [Video](https://twitter.com/bDevGames93/status/1624067567479300096)
 
     Source code:
   
    [M_Water](https://blueprintue.com/blueprint/yk88i8ap/)
+
+ - Landscape Project A: This was the first attempt to create a material autolandscape, I used PixelDepth to control the tiling between different textures,
+employed different textures with various UVs, a macro texture variation to avoid even more repetition between textures, and in this project, I decided to use the WorldAlignedBlend node in order to create a bleen between texutres more realistic, although using this node I don't have as much control as I would like.
+
+ 
+    Appart from that, I used assets from Megascans and Lumen to improve the final scene
+ 
+  
+     [Video](https://twitter.com/bDevGames93/status/1652938509857030144)
+
+    Source code:
+  
+     [M_Automaterial_Landscape_ProjectA](https://blueprintue.com/blueprint/m7z4ihu3/)
   
   
   
