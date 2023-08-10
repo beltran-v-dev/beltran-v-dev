@@ -13,13 +13,21 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bDevGames93?style=for-the-badge&logo=twitter&color=blue"> 
 </div>
 
-## Languages and Tools
+## Languages and Tools I'm working or I worked recently 
 
 - **Unreal Engine**
 - **Unity**
 - **C#**
 - **C++**
 - **Game Development**
+
+- ## Languages and Tools I worked with some time ago
+
+- **PHP**
+- **HTML**
+- **JAVA**
+- **SQL**
+- **Android Studio**
 
 ---
 
