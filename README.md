@@ -15,7 +15,7 @@ Currently, I'm working on an Unreal Engine project where I'm trying to write as 
 <div align="left">
 <h4> Languages and Tools: </h4>
   <div>
-      <img src="https://github.com/EpicKiwi/unreal-engine-editor-icons/blob/master/imgs/Icons/EditorAppIcon.png" width="40"/>
+
     
   </div>
   
