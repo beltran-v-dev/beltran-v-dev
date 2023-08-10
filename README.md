@@ -79,11 +79,21 @@
 
   Source code:
   
-   [MF_Triplanarmapping](https://blueprintue.com/blueprint/lwwn82gi/)
+     [MF_Triplanarmapping](https://blueprintue.com/blueprint/lwwn82gi/)
   
-   [MF_BasicRock](https://blueprintue.com/blueprint/_vp-lq7t/)
+     [MF_BasicRock](https://blueprintue.com/blueprint/_vp-lq7t/)
   
-   [MF_BasicSnow](https://blueprintue.com/blueprint/ihnbo93k/)
+     [MF_BasicSnow](https://blueprintue.com/blueprint/ihnbo93k/)
   
-   [M_SnowyRocks](https://blueprintue.com/blueprint/y-89948g/)
+     [M_SnowyRocks](https://blueprintue.com/blueprint/y-89948g/)
+
+ - Lake: To achieve the creation of the water material, we have worked with nodes that help us to measure the distance to create the foam, we have worked with different normal maps and how to mix them, we have worked with the panner node, also the texture coordinate node so that the different textures have different uvs and look more realistic. We have also worked with a height map to create a slight tide, we are not in the sea, but it will be subtle and will give more life, we have worked with the height Lerp node and with the pixel depth and scene colour nodes among others.
+  
+   [Video](https://twitter.com/bDevGames93/status/1624067567479300096)
+
+    Source code:
+  
+   [M_Water](https://blueprintue.com/blueprint/yk88i8ap/)
+  
+  
   
