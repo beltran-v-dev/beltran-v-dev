@@ -12,6 +12,14 @@ Currently, I'm working on an Unreal Engine project where I'm trying to write as 
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bDevGames93?style=for-the-badge&logo=twitter&color=blue"> 
 </div>
 
+<div align="left">
+<h4> Languages and Tools: </h4>
+  <div>
+      <img src="https://github.com/EpicKiwi/unreal-engine-editor-icons/blob/master/imgs/Icons/EditorAppIcon.png" width="40"/>
+    
+  </div>
+  
+</div>
 
 ---
 
