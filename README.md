@@ -107,6 +107,20 @@ employed different textures with various UVs, a macro texture variation to avoid
     Source code:
   
      [M_Automaterial_Landscape_ProjectA](https://blueprintue.com/blueprint/m7z4ihu3/)
+
+  
+  - Landscape Project B: This was the first attempt to create a material autolandscape, I used PixelDepth to control the tiling between different textures,
+employed different textures with various UVs, a macro texture variation to avoid even more repetition between textures, and in this project, I decided to use the WorldAlignedBlend node in order to create a bleen between texutres more realistic, although using this node I don't have as much control as I would like.
+
+ 
+    Appart from that, I used assets from Megascans and Lumen to improve the final scene
+ 
+  
+     [Video](https://twitter.com/bDevGames93/status/1652938509857030144)
+
+    Source code:
+  
+     [M_Automaterial_Landscape_ProjectA](https://blueprintue.com/blueprint/m7z4ihu3/)
   
   
   
