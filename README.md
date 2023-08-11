@@ -21,7 +21,7 @@
 - **C++**
 - **Game Development**
 
-##### Languages and Tools I worked with some time ago
+#### Languages and Tools I worked with some time ago
 
 - **PHP**
 - **HTML**
