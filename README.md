@@ -59,7 +59,7 @@
 
   ---
 
-  ### Project I am currently working on 🧑‍💻:
+### Project I am currently working on 🧑‍💻:
 
 - Hospital Project: Hospital Project is the project in which I am currently working alongside a classmate. In this project, our main character will have to find her way out of a hospital crawling with zombies. This project will be finished in December 2023.
 
@@ -71,7 +71,7 @@
 
   ---
 
-  ### My love for Unreal Engine Materials 🌈
+### My love for Unreal Engine Materials 🌈
   
 - Snow never falls: To achieve this, I have used a technique called Triplanar Mapping. Three material functions have been used to create the rock part, the snow part, and the Triplanar Mapping
   
