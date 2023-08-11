@@ -4,7 +4,7 @@
   <h4 align="left">I am an enthusiastic game developer with a passion for video games that carry powerful messages. I've participated as a project manager and as a programmer in two projects in Unity: 'Element Killer' and 'Catch it!'. Currently, I'm more focused on Unreal Engine. I've completed a small project aimed at helping me feel more confident working with Unreal Engine Blueprints – it's a samurai combat game, and you should definitely check it out.
   </h4>
   <img src="https://i.postimg.cc/fTVtGbYR/talking-Image.png" align="center" width="300" />
-  <h4 align="left"> Currently, I'm working on an Unreal Engine project where I'm trying to write as much code as I can in C++. The project is titled 'Hospital Project', and the main theme revolves around our main character finding her way out of a hospital crawling with zombies. Sounds exciting, doesn't it?
+  <h4 align="left"> At the moment, I'm working on an Unreal Engine project where I'm trying to write as much code as I can in C++. The project is titled 'Hospital Project', and the main theme revolves around our main character finding her way out of a hospital crawling with zombies. Sounds exciting, doesn't it?
   </h4>
 </div>
 
