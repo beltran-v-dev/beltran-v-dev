@@ -47,7 +47,7 @@
   
   [Youtube Video](https://www.youtube.com/watch?v=4sbd7RYDFqs)
   
-  [In Progress](https://github.com/beltran-v-dev/CatchItScripts)
+  [Source Code](https://github.com/beltran-v-dev/CatchItScripts)
 
 - Samurai Project: It's a small project where my objective was to feel more confident working with Unreal Engine Blueprints. In this project, I worked on the fundamentals of AI behavior trees, character movement, controlling combat characters, and animations.
 
