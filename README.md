@@ -67,7 +67,7 @@
   
   [Twitter Thread](https://twitter.com/bDevGames93/status/1685200083187326976)
   
-  [Code Source](https://github.com/beltran-v-dev/HospitalProjectCode)
+  [Source Code](https://github.com/beltran-v-dev/HospitalProjectCode)
 
   ---
 
