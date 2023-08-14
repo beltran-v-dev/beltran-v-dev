@@ -31,7 +31,20 @@
 
 ---
 
-### Project I've worked on 🧐
+### Project I am currently working on 🧑‍💻:
+
+- Hospital Project: Hospital Project is the project in which I am currently working alongside a classmate. In this project, our main character will have to find her way out of a hospital crawling with zombies. This project will be finished in December 2023.
+
+  You can follow every week the new updates (Every Saturday) 
+  
+  [Twitter Thread](https://twitter.com/bDevGames93/status/1685200083187326976)
+  
+  [Source Code](https://github.com/beltran-v-dev/HospitalProjectCode)
+
+  ---
+
+
+### Projects I've worked on 🧐
 
 - Element Killer: Element Killer is a 2D platform video game in which our main character has to defeat different enemies and reach the end of the level. To do so, the player has to combine different elements such as fire, water, and plant to complete the level in just over a minute.
 
@@ -59,17 +72,6 @@
 
   ---
 
-### Project I am currently working on 🧑‍💻:
-
-- Hospital Project: Hospital Project is the project in which I am currently working alongside a classmate. In this project, our main character will have to find her way out of a hospital crawling with zombies. This project will be finished in December 2023.
-
-  You can follow every week the new updates (Every Saturday) 
-  
-  [Twitter Thread](https://twitter.com/bDevGames93/status/1685200083187326976)
-  
-  [Source Code](https://github.com/beltran-v-dev/HospitalProjectCode)
-
-  ---
 
 ### My love for Unreal Engine Materials 🌈
   
