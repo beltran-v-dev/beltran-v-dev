@@ -119,7 +119,17 @@ employed different textures with various UVs, a macro texture variation to avoid
 
     Source code:
   
-     [M_Automaterial_Landscape_ProjectB]()
-  
-  
+     [M_Automaterial_Landscape_ProjectB](https://blueprintue.com/blueprint/_nv_4_a-/)
+    
+     [MF_LandscapeMaterialProcess_ProjectB](https://blueprintue.com/blueprint/hma-gpx4/)
+
+     [MF_CameraDepthFade_ProjectB](https://blueprintue.com/blueprint/eo5zxtsr/)
+
+     [MF_MacroVariation_ProjectB](https://blueprintue.com/blueprint/r78j7b1p/)
+
+     [MF_TriplanarmapinProjection_ProjectB](https://blueprintue.com/blueprint/pm-q4su8/)
+
+     [MF_SlopeMask_ProjectB](https://blueprintue.com/blueprint/mf_1n8w3/)
+
+     [MF_HightMask_ProjectB](https://blueprintue.com/blueprint/o6wzjn83/)
   
