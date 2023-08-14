@@ -138,6 +138,8 @@ an MF used to take advantage of the triplanar mapping technique in order to make
     
      [MF_LandscapeMaterialProcess_ProjectB](https://blueprintue.com/blueprint/hma-gpx4/)
 
+     [MF_TriplanarLandscapeMaterialProcess_ProjectB](https://blueprintue.com/blueprint/9ab46zm4/)
+
      [MF_CameraDepthFade_ProjectB](https://blueprintue.com/blueprint/eo5zxtsr/)
 
      [MF_MacroVariation_ProjectB](https://blueprintue.com/blueprint/r78j7b1p/)
