@@ -122,6 +122,10 @@ an MF used to take advantage of the triplanar mapping technique in order to make
     MF_TriplanarMappingProjection: We use this MF to take advantage of the TriplanarMappingProjection technique. What does it do? This technique is used to 
       eliminate possible visual distortion that can occur when we are using 2D UVs.
 
+    MF_SlopeMask: We use this MF to create a transition between the grass texture and the slope texture.
+
+    MF_HightMask: We use this MF to create a transition between the MF_SlopeMask and the snow texture
+
  
  
  
