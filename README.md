@@ -109,7 +109,18 @@ employed different textures with various UVs, a macro texture variation to avoid
      [M_Automaterial_Landscape_ProjectA](https://blueprintue.com/blueprint/m7z4ihu3/)
 
   
-  - Landscape Project B: In progress...
+  - Landscape Project B: To create this new landscape, I decided to create different material functions in order to keep the main material cleaner. This
+material has four textures: grass, soil, slope, and snow. Two of them are connected to MF_LandscapeMaterialProcess, while slope and snow textures are connected
+to MF_TriplanarLandscapeMaterialProcess (this MF is identical to MF_LandscapeMaterialProcess, but inside MF_TriplanarLandscapeMaterialProcess, we are using
+an MF used to take advantage of the triplanar mapping technique in order to make the sloped parts look better).
+
+    MF_MacroVariation: We use this MF to create darker parts in the final texture. As its name suggests, we are implementing a macro variation.
+    
+    MF_CameraDepthFade: We use this MF to set different UVs for the same texture, this technique tricks the human eye, and it seems there is no
+    repetition at all.
+
+    MF_TriplanarMappingProjection: We use this MF to take advantage of the TriplanarMappingProjection technique. What does it do? This technique is used to 
+      eliminate possible visual distortion that can occur when we are using 2D UVs.
 
  
  
