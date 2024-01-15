@@ -33,7 +33,8 @@
 
 ### Project I am currently working on 🧑‍💻:
 
-- ***Hospital Project***: Hospital Project is the project in which I am currently working alongside a classmate. In this project, our main character will have to find her way out of a hospital crawling with zombies. This project will be finished in December 2023.
+- ***Hospital Project***: Hospital Project is a single-player video game with a strong narrative. Our protagonist not only has to survive in a post-apocalyptic world full of zombies and other threats, but also has to take care of her little sister. threats, but she also has to take care of her little sister. In order to survive, our
+protagonist will have different types of weapons and must use stealth as another weapon.
 
   You can follow every week the new updates (Every Saturday) 
   
