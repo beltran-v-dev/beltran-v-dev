@@ -33,12 +33,12 @@
 
 ### Project I am currently working on 🧑‍💻:
 
-- ***Hospital Project***: Hospital Project is a single-player video game with a strong narrative. Our protagonist not only has to survive in a post-apocalyptic world full of zombies and other threats, but also has to take care of her little sister. threats, but she also has to take care of her little sister. In order to survive, our
+- ***Hospital Project***: Hospital Project is a single-player video game with a strong narrative. Our main character not only has to survive in a post-apocalyptic world full of zombies and other threats, but also has to take care of her little sister. threats, but she also has to take care of her little sister. In order to survive, our
 protagonist will have different types of weapons and must use stealth as another weapon.
 
-  You can follow every week the new updates (Every Saturday) 
+
   
-  [Twitter Thread](https://twitter.com/bDevGames93/status/1685200083187326976)
+  [Trailer](https://drive.google.com/file/d/1cRzYFL5ja7q50JQDfBFdGwFFyysjvE6f/view?usp=drive_link)
   
   [Source Code](https://github.com/beltran-v-dev/HospitalProjectCode)
 
