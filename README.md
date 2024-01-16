@@ -4,7 +4,7 @@
   <h4 align="left">I'm passionate about game development. I've participated as a project manager and as a programmer in two projects in Unity: 'Element Killer' and 'Catch it!'. Currently, I'm working on an Unreal Engine project.
   </h4>
   <img src="https://i.postimg.cc/fTVtGbYR/talking-Image.png" align="center" width="300" />
-  <h4 align="left"> At the moment, I'm working on an Unreal Engine project where I'm trying to write as much code as I can in C++. The project is titled 'Hospital Project', and the main theme revolves around our main character finding her way out of a hospital crawling with zombies. Sounds exciting, doesn't it?
+  <h4 align="left"> At the moment, I'm working on an Unreal Engine project. The project is titled 'Hospital Project', and the main theme revolves around our main character finding her way out of a hospital crawling with zombies. Sounds exciting, doesn't it?
   </h4>
 </div>
 
