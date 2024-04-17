@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align="center"> It's me! Beltrán 😁</h1>
- 
+  <img src="https://i.postimg.cc/fTVtGbYR/talking-Image.png" align="center" width="300" />
   <h4 align="left">I am passionate about game development. I have participated in various game projects, both in Unity and Unreal.
   </h4>
  
